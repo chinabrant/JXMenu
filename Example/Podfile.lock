@@ -1,0 +1,19 @@
+PODS:
+  - JXMenu (0.1.0)
+  - Masonry (1.0.2)
+
+DEPENDENCIES:
+  - JXMenu (from `../`)
+  - Masonry
+
+EXTERNAL SOURCES:
+  JXMenu:
+    :path: ../
+
+SPEC CHECKSUMS:
+  JXMenu: d681bf0d67c852f6b4f6beeeb4a9f4f2cd19fbdd
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+
+PODFILE CHECKSUM: d73e64168742f0bc4c0b964ae5ec7d2cc2991243
+
+COCOAPODS: 1.2.0

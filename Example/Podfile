@@ -2,6 +2,8 @@ use_frameworks!
 
 target 'JXMenu_Example' do
   pod 'JXMenu', :path => '../'
+  
+  pod 'Masonry'
 
   target 'JXMenu_Tests' do
     inherit! :search_paths

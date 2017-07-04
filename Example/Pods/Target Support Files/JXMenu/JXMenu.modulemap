@@ -1,0 +1,6 @@
+framework module JXMenu {
+  umbrella header "JXMenu-umbrella.h"
+
+  export *
+  module * { export * }
+}

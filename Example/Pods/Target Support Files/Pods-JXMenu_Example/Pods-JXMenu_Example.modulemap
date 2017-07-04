@@ -1,0 +1,6 @@
+framework module Pods_JXMenu_Example {
+  umbrella header "Pods-JXMenu_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
